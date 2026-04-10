@@ -55,7 +55,7 @@
 - **Resolution / Status:** Resolved
 
 ### Item 4: Team Introduction Video
-- **Introduced by:** Evan Marriott
+- **Introduced by:** Nicole Sutedja
 - **Discussion:** Each member filmed a short introduction shot covering their name, role, and a fun fact to be used in the team intro video.
 - **Resolution / Status:** Resolved
 
