@@ -52,9 +52,13 @@ We commit to the following core values as a team:
 ## 4. Needs and Expectations
 
 ### Availability
-- Each member is expected to contribute a minimum of **~8 hours per week** to the project
+- Each member is expected to contribute a minimum of **~4 hours per week** to the project
 - Members should communicate scheduling conflicts **at least 48 hours in advance** when possible
 - No one is expected to be available 24/7 — but responses to messages in Slack should happen within **24 hours on weekdays**
+
+### Meeting Time
+- The weekly team sync is held during our discussion period: **Mondays 4:00 – 5:00 PM**
+- Members should attend in person or notify the team in advance if they cannot
 
 ### Collaboration Expectations
 - Attend the weekly team sync or notify the team in advance if you cannot
@@ -96,7 +100,6 @@ We approach violations with the assumption of good intent first. The goal is to 
 
 ## 7. Working Methods and Processes
 
-- We work in **1-week sprints**, with sprint planning on Sundays and a retrospective at the end of each sprint
 - Tasks are tracked in **GitHub Projects** using a Kanban board (Backlog → In Progress → In Review → Done)
 - All code lives in the `main` branch via PRs; feature branches should be named `feature/short-description`
 - Commits should be meaningful and descriptive — avoid messages like "fix" or "stuff"
