@@ -1,11 +1,14 @@
-# 🚀 Team 10
-
-
----
+# 🚀 Team 10 - 10x Devs
 
 ## 🎨 Brand & Identity
 
-**Team Name:** Team 10
+**Team Name:** 10x Devs
+
+<div align="left">
+  <img src="branding/10x-Devs.png" alt="10x Devs Logo" width="300" />
+</div>
+
+Our logo, featuring **'Volt'** the robotic dev sprite, is a symbol of dynamic innovation. Rendered with our core color palette, it showcases '10x' as a powerful, precision-engineered bolt and arrow, signifying exceptional velocity, scale, and a passion for technology that pushes boundaries.
 
 **Mission:** To design, build, and ship a high-quality product while growing as engineers and collaborators.
 
@@ -16,13 +19,9 @@
 - 💎 Quality
 - 📈 Growth
 
----
-
 ## 👥 Roster
 
----
-
-### Evan Marriott — *Team Lead / Project Manager*
+### Evan Marriott — *Team Lead*
 
 | | |
 |---|---|
@@ -36,18 +35,17 @@
 
 ---
 
-### Nicole Sutedja — *Team Lead / Project Manager*
-![Headshot](link-to-photo-or-remove-line) (Optional)
+### Nicole Sutedja — *Team Lead*
 
 | | |
 |---|---|
-| **GitHub** | [@username](https://github.com/username) |
-| **Major** | [Major] |
-| **Year** | [Year] |
+| **GitHub** | [@nicolesutedja](https://github.com/nicolesutedja) |
+| **Major** | Computer Science |
+| **Year** | 2nd Year |
 
-**About me:** [2-3 sentences about yourself, your interests, or what you're working on]
+**About me:**  I love to explore the possibilities of technology and how it can help our community. I am passionate about programming, working alongside a team, event planning, and learning new things every day. 
 
-**Fun fact:** [Something interesting about you]
+**Fun fact:** I love to play tennis and video games!
 
 ---
 
