@@ -10,10 +10,9 @@
 | **Minutes Recorded By** | Evan Marriott |
 ---
 ## Attendance: Mark x if Present
-Team Leads
+
 - [x] Nicole Sutedja (nsutedja@ucsd.edu)
 - [x] Evan Marriott (emarriott@ucsd.edu)
-Members
 - [x] Hudson Gehrke (hgehrke@ucsd.edu)
 - [x] Aron Wu (arw008@ucsd.edu)
 - [x] Bethany Miyamoto (bmiyamoto@ucsd.edu)
