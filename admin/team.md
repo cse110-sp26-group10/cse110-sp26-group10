@@ -139,7 +139,6 @@ Our logo, featuring **'Volt'** the robotic dev sprite, is a symbol of dynamic in
 ---
 
 ### Benedict Luis — *Frontend*
-![Headshot](link-to-photo-or-remove-line)
 
 | | |
 |---|---|
