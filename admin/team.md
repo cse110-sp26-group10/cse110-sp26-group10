@@ -113,7 +113,7 @@ Our logo, featuring **'Volt'** the robotic dev sprite, is a symbol of dynamic in
 
 | | |
 |---|---|
-| **GitHub** | [@chungkaley](https://github.com/chungkaley) |
+| **GitHub** | [@chungkaley](https://chungkaley.github.io/CSE-110-Lab-Week-1---VSCode-Markdown-and-Git-Part-1/) |
 | **Major** | Computer Science |
 | **Year** | 3rd Year |
 
