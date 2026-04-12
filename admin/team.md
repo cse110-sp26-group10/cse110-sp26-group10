@@ -80,17 +80,16 @@ Our logo, featuring **'Volt'** the robotic dev sprite, is a symbol of dynamic in
 ---
 
 ### Jensen Guo — *QA / Testing*
-![Headshot](link-to-photo-or-remove-line)
 
 | | |
 |---|---|
-| **GitHub** | [@username](https://github.com/username) |
-| **Major** | [Major] |
-| **Year** | [Year] |
+| **GitHub** | [@username](https://github.com/jguo55) |
+| **Major** | Computer Science |
+| **Year** | 3rd Year |
 
-**About me:** [2-3 sentences about yourself, your interests, or what you're working on]
+**About me:** I'm Jensen, and I like a wide variety of subjects within computing, such as computer vision. In my free time, I enjoy listening to music and playing video games.
 
-**Fun fact:** [Something interesting about you]
+**Fun fact:** I'm actually a transfer student, originally from UC Merced.
 
 ---
 
