@@ -16,7 +16,6 @@ Team Leads
 - [x] Evan Marriott (emarriott@ucsd.edu)
 
 Members
-- [ ] Hudson Gehrke (hgehrke@ucsd.edu)
 - [x] Aron Wu (arw008@ucsd.edu)
 - [x] Bethany Miyamoto (bmiyamoto@ucsd.edu)
 - [x] Jensen Guo (jeg076@ucsd.edu)
