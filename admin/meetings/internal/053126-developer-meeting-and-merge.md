@@ -4,9 +4,9 @@
 | Field | Details |
 |---|---|
 | **Meeting Type** | Sprint / Team Standup + Work Session |
-| **Date** | TBD (inferred from transcript — please fill in) |
+| **Date** | 5/31/26 |
 | **Time** | ~8:15 PM – 9:30 PM |
-| **Location** | Virtual (Video Call) |
+| **Location** | Zoom |
 | **Minutes Recorded By** | Evan Marriott |
 
 ---
